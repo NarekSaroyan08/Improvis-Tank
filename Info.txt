@@ -1,0 +1,11 @@
+https://www.circuitbasics.com/how-to-setup-gyroscopes-on-the-arduino/
+
+https://how2electronics.com/getting-started-with-esp32-dw1000-uwb-ultra-wideband-module/#What_is_Ultra_Wideband
+
+https://www.instructables.com/10-CM-Accurate-Ultra-wide-Band-UWB-Positioning-for/
+
+https://www.youtube.com/watch?v=Rm_R0MAmHHA
+
+https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/
+
+https://how2electronics.com/getting-started-with-esp32-dw1000-uwb-ultra-wideband-module/#Getting_Started_with_ESP32_DW1000_UWB_Ultra_Wideband_Module
